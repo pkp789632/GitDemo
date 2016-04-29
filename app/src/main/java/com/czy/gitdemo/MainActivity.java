@@ -9,9 +9,17 @@ import org.w3c.dom.Text;
 public class MainActivity extends AppCompatActivity {
     private TextView tv1;
     private TextView tv2;
+    private TextView tv3;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+
+
+
+
+
+
         setContentView(R.layout.activity_main);
     }
 }
